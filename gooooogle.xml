@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+<ModulePrefs title="google.com" />
+<Content type="html"><![CDATA[
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>google.com</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            color: #333;
+            margin-top: 20px;
+        }
+        .button-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 20px auto;
+        }
+        .link-button {
+            display: inline-block;
+            width: 80%;
+            max-width: 300px;
+            margin: 10px 0;
+            padding: 15px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #007BFF;
+            text-decoration: none;
+            border-radius: 5px;
+            text-align: center;
+            cursor: pointer;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            transition: background-color 0.3s, transform 0.2s;
+        }
+        .link-button:hover {
+            background-color: #0056b3;
+            transform: scale(1.05);
+        }
+    </style>
+    <script>
+        function openPopup(url) {
+            // Yeni açılır pencere oluştur
+            const popupWindow = window.open("", "popup", "width=800,height=600,resizable=yes,scrollbars=yes");
+            
+            if (popupWindow) {
+                // Yeni pencerenin içeriğini oluştur
+                popupWindow.document.write(`
+                    <!DOCTYPE html>
+                    <html lang="en">
+                    <head>
+                        <meta charset="UTF-8">
+                        <title>google.com</title>
+                        <link rel="icon" href="https://www.google.com/favicon.ico" type="image/x-icon">
+                        <style>
+                            body {
+                                margin: 0;
+                                padding: 0;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+                                height: 100vh;
+                                overflow: hidden;
+                                background-color: #f9f9f9;
+                            }
+                            iframe {
+                                width: 100%;
+                                height: 100%;
+                                border: none;
+                                display: block;
+                            }
+                        </style>
+                    </head>
+                    <body>
+                        <iframe src="${url}"></iframe>
+                    </body>
+                    </html>
+                `);
+                popupWindow.document.close();
+            } else {
+                alert("Popup blocker is preventing the window from opening!");
+            }
+        }
+    </script>
+</head>
+<body>
+
+    <h2>09.07.2025 Updates</h2>
+
+<h2>12+ New Space Proxy Links</h2>
+<div class="button-container">
+  <div class="link-button" onclick="openPopup('https://nirbytesx.baselinux.net/')">1</div>
+  <div class="link-button" onclick="openPopup('https://vipnirbytesproxy.baselinux.net/')">2</div>
+  <div class="link-button" onclick="openPopup('https://nirbytexspace.fluxus.org/')">3</div>
+  <div class="link-button" onclick="openPopup('https://janebid.baselinux.net/')">4</div>
+  <div class="link-button" onclick="openPopup('https://mandikalai.baselinux.net/')">5</div>
+  <div class="link-button" onclick="openPopup('https://proxeprolame.baselinux.net/')">6</div>
+  <div class="link-button" onclick="openPopup('https://jankimatxer.fluxus.org/')">7</div>
+  <div class="link-button" onclick="openPopup('https://nepkxth.fluxus.org/')">8</div>
+  <div class="link-button" onclick="openPopup('https://zyndravi.prose.com/')">9</div>
+  <div class="link-button" onclick="openPopup('https://gonmali.vip.xyz/')">10</div>
+  <div class="link-button" onclick="openPopup('https://preetilan.fluxus.org/')">11</div>
+  <div class="link-button" onclick="openPopup('https://simplaxer.fluxus.org/')">12</div>
+</div>
+
+<h2>14+ New Rammerhead Proxy Links</h2>
+<div class="button-container">
+  <div class="link-button" onclick="openPopup('https://iam.steveward.ws/')">1</div>
+  <div class="link-button" onclick="openPopup('https://proxysluts.coral-shop.ro/')">2</div>
+  <div class="link-button" onclick="openPopup('https://kagurabachilover.lgmnow.com/')">3</div>
+  <div class="link-button" onclick="openPopup('https://scrsa.luhu.jp/')">4</div>
+  <div class="link-button" onclick="openPopup('https://bu-abdulla.gafton.eu/')">5</div>
+  <div class="link-button" onclick="openPopup('https://hicluzelol.neikos.com.mx/')">6</div>
+  <div class="link-button" onclick="openPopup('https://kenkyu.luhu.jp/')">7</div>
+  <div class="link-button" onclick="openPopup('https://by-itrsa.pettica.com/')">8</div>
+  <div class="link-button" onclick="openPopup('https://usernotfound.palomadi.ar/')">9</div>
+  <div class="link-button" onclick="openPopup('https://iam.steveward.ws/')">10</div>
+  <div class="link-button" onclick="openPopup('https://ishowspeed.chrishow.org/')">11</div>
+  <div class="link-button" onclick="openPopup('https://snoop.dogdammit.com/')">12</div>
+  <div class="link-button" onclick="openPopup('https://nexo.koti.cf/')">13</div>
+  <div class="link-button" onclick="openPopup('https://flipgrid.imdb.gq/')">14</div>
+</div>
+
+<h2>25.06.2025 Updates</h2>
+
+<h2>13+ New Utopia Proxy Bağlantıları</h2>
+<div class="button-container">
+  <div class="link-button" onclick="openPopup('https://state.lab.covi.com.ar/')">1</div>
+  <div class="link-button" onclick="openPopup('https://world.guide.ticinostudio.com/')">2</div>
+  <div class="link-button" onclick="openPopup('https://tests.excel.wild1.net/')">3</div>
+  <div class="link-button" onclick="openPopup('https://base.train.kdits.ca/')">4</div>
+  <div class="link-button" onclick="openPopup('https://basic.idea.gracesiefer.com/')">5</div>
+  <div class="link-button" onclick="openPopup('https://schoology2.twilightparadox.com/')">6</div>
+  <div class="link-button" onclick="openPopup('https://blacknig-ger.69.mu/')">7</div>
+  <div class="link-button" onclick="openPopup('https://chickenzestyhawktuahbigblacknigfattass.69.mu/')">8</div>
+  <div class="link-button" onclick="openPopup('https://popteeeee-lkshfeakwueh-ew.swanndvr.net/')">9</div>
+  <div class="link-button" onclick="openPopup('https://harrypotter.serverpit.com/')">10</div>
+  <div class="link-button" onclick="openPopup('https://ebooks-edu.agmlabs.com/')">11</div>
+  <div class="link-button" onclick="openPopup('https://teste.g.crabdance.com/')">12</div>
+  <div class="link-button" onclick="openPopup('https://teste.g.ignorelist.com/')">13</div>
+</div>
+
+<h2>14+ New Rammerhead Proxy Bağlantıları</h2>
+<div class="button-container">
+  <div class="link-button" onclick="openPopup('https://bentnailfarm4121.com/')">1</div>
+  <div class="link-button" onclick="openPopup('https://oliverdiepiogreedycheckers.sponsorafuture.org.uk/')">2</div>
+  <div class="link-button" onclick="openPopup('https://myincredibleweightlossjounrney.gblandscape.com/')">3</div>
+  <div class="link-button" onclick="openPopup('https://danielrcrawfordfanpage.danielrcrawford.com/')">4</div>
+  <div class="link-button" onclick="openPopup('https://yozora.iiiii.info/')">5</div>
+  <div class="link-button" onclick="openPopup('https://bookpog.bad.mn/')">6</div>
+  <div class="link-button" onclick="openPopup('https://thirteen13.windsormetalbattery.com/')">7</div>
+  <div class="link-button" onclick="openPopup('https://sical.s.ical.sic.al/')">8</div>
+  <div class="link-button" onclick="openPopup('https://7afootball.rainbowcup.com/')">9</div>
+  <div class="link-button" onclick="openPopup('https://7aisfulloftalent.hondascooterparts.com/')">10</div>
+  <div class="link-button" onclick="openPopup('https://tylerknowskungfu.isageek.net/')">11</div>
+  <div class="link-button" onclick="openPopup('https://rammerheadisok.tx2600.net/')">12</div>
+  <div class="link-button" onclick="openPopup('https://abdulv2.flazzard.com/')">13</div>
+  <div class="link-button" onclick="openPopup('https://arain.neighborhoodcloud.com/')">14</div>
+</div>
+
+<h2>12+ New Bolt Proxy Bağlantıları</h2>
+<div class="button-container">
+  <div class="link-button" onclick="openPopup('https://know.core.antidemon.com/')">1</div>
+  <div class="link-button" onclick="openPopup('https://books.school.warezromania.net/')">2</div>
+  <div class="link-button" onclick="openPopup('https://gov.skills.veriler.com/')">3</div>
+  <div class="link-button" onclick="openPopup('https://grid.brain.marcenes.com.br/')">4</div>
+  <div class="link-button" onclick="openPopup('https://chart.books.fivepals.com/')">5</div>
+  <div class="link-button" onclick="openPopup('https://popteeeee-lkshfeakwueh-ew.swanndvr.net/')">6</div>
+  <div class="link-button" onclick="openPopup('https://chickenzestyhawktuahbigblacknigfattass.69.mu/')">7</div>
+  <div class="link-button" onclick="openPopup('https://blacknig-ger.69.mu/')">8</div>
+  <div class="link-button" onclick="openPopup('https://schoology2.twilightparadox.com/')">9</div>
+  <div class="link-button" onclick="openPopup('https://poiuytrewq.novipro.ca/')">10</div>
+  <div class="link-button" onclick="openPopup('https://jordanmadethis.chickenkiller.com/')">11</div>
+  <div class="link-button" onclick="openPopup('https://arevmadethis.120v.ac/')">12</div>
+</div>
+
+<h2>13+ New Utopia Proxy Bağlantıları</h2>
+<div class="button-container">
+  <div class="link-button" onclick="openPopup('https://know.core.antidemon.com/')">1</div>
+  <div class="link-button" onclick="openPopup('https://books.school.warezromania.net/')">2</div>
+  <div class="link-button" onclick="openPopup('https://gov.skills.veriler.com/')">3</div>
+  <div class="link-button" onclick="openPopup('https://grid.brain.marcenes.com.br/')">4</div>
+  <div class="link-button" onclick="openPopup('https://chart.books.fivepals.com/')">5</div>
+  <div class="link-button" onclick="openPopup('https://popteeeee-lkshfeakwueh-ew.swanndvr.net/')">6</div>
+  <div class="link-button" onclick="openPopup('https://chickenzestyhawktuahbigblacknigfattass.69.mu/')">7</div>
+  <div class="link-button" onclick="openPopup('https://blacknig-ger.69.mu/')">8</div>
+  <div class="link-button" onclick="openPopup('https://schoology2.twilightparadox.com/')">9</div>
+  <div class="link-button" onclick="openPopup('https://poiuytrewq.novipro.ca/')">10</div>
+  <div class="link-button" onclick="openPopup('https://jordanmadethis.chickenkiller.com/')">11</div>
+  <div class="link-button" onclick="openPopup('https://arevmadethis.120v.ac/')">12</div>
+  <div class="link-button" onclick="openPopup('https://everyonewantstocrackshawnp.jumpingcrab.com/')">13</div>
+</div>
+
+<h2>13+ New Shadow Proxy Bağlantıları</h2>
+<div class="button-container">
+  <div class="link-button" onclick="openPopup('https://zxyp.02.garmanage.com/')">1</div>
+  <div class="link-button" onclick="openPopup('https://topdown.robtop.xyz/')">2</div>
+  <div class="link-button" onclick="openPopup('https://topyea.robtop.xyz/')">3</div>
+  <div class="link-button" onclick="openPopup('https://classroom.google.lang.hm/')">4</div>
+  <div class="link-button" onclick="openPopup('https://matheducaton.duh.us/')">5</div>
+  <div class="link-button" onclick="openPopup('https://math.startechcomputacion.com/')">6</div>
+  <div class="link-button" onclick="openPopup('https://chaotic-guest-bestie.glacialpower.com/')">7</div>
+  <div class="link-button" onclick="openPopup('https://farmhouse.mills-family.us/')">8</div>
+  <div class="link-button" onclick="openPopup('https://googie.anchorchain.co.za/')">9</div>
+  <div class="link-button" onclick="openPopup('https://keepchatactive.faizinternational.com.np/')">10</div>
+  <div class="link-button" onclick="openPopup('https://myincredibleweightlossjounrney.gblandscape.com/')">11</div>
+  <div class="link-button" onclick="openPopup('https://danielrcrawfordfanpage.danielrcrawford.com/')">12</div>
+</div>
+
+
+</body>
+</html>
+
+
+
+]]></Content>
+</Module>
